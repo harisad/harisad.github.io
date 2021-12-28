@@ -1,5 +1,5 @@
 @keyframes fanim {0% {background-size: 100% 100%;}25% {background-size: 105% 105%;} 50% {background-size: 107% 107%;} 75% {background-size: 105% 105%;} 100% {background-size: 100% 100%;}}
-a{text-decoration:none;} body{font-family: 'Quicksand', sans-serif;padding: 5px 25px} body::before{content:"\00A9  linkr.bio/rayyarr";color:white;opacity:.2;font-size:5px;position:absolute;bottom:25px;left:calc(50vw - 22px);}
+a{text-decoration:none;} body{font-family: 'Quicksand', sans-serif;padding: 5px 25px} body::before{content:"\00A9  Haris Mujianto";color:white;opacity:.2;font-size:5px;position:absolute;bottom:25px;left:calc(50vw - 22px);}
 
 #Content{opacity:0;transition:all 1s ease;}
 #pergeseran{margin-top:70px;opacity:0;visibility:hidden;transition:all 1s ease;display:flex;flex-wrap:nowrap;align-items:flex-start;justify-content:flex-start;position:relative;width:calc(100%);left:-20px;padding:0 20px; overflow-y:hidden;overflow-x:scroll;scroll-behavior:smooth;scroll-snap-type:x mandatory; -ms-overflow-style:none;-webkit-overflow-scrolling:touch}
